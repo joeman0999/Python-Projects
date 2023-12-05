@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Partitionable asynchronous cryptocurrency blockchain",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 1-9, 2021",
+        "author": "Kendric Hood and Joseph Oglio and Mikhail Nesterenko and Gokarna Sharma",
+        "conference": "2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+        "pages": "1-9",
+        "publisher": "IEEE",
+        "abstract": "We consider operation of blockchain-based cryptocurrency in case of partitioning. We define the Partitionable Blockchain Consensus Problem. The problem may have an interesting solution if the partitions proceed independently by splitting accounts. We prove that this problem is not solvable in the asynchronous system. The peers in the two partitions may not agree on the last jointly mined block or, alternatively, on the starting point of independent concurrent computation. We introduce a family of detectors that enable a solution. We establish the relationship between detectors. We present the algorithm that solves the Partitionable Blockchain Consensus Problem using our detectors. We extend our solution to multiple splits, message loss and to partition merging. We simulate and evaluate the performance of detectors, discuss the implementation of the detectors and future work."
+    },
+    "filled": true,
+    "author_pub_id": "QkZx2HIAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=10788795463351292702",
+    "cites_id": [
+        "10788795463351292702"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9461080/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HlNm-0-AuZUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "QkZx2HIAAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=QkZx2HIAAAAJ",
+    "name": "Joseph Oglio",
+    "affiliation": "Kent State University",
+    "email_domain": "@kent.edu",
+    "interests": [
+        "Distributed Computing",
+        "Networking",
+        "Robotics",
+        "Consensus"
+    ],
+    "citedby": 4,
+    "organization": 3286493638350531604,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GjcGFa4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mikhail Nesterenko",
+            "affiliation": "Kent State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PnmtA3wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gokarna Sharma, PhD",
+            "affiliation": "Associate Professor of Computer Science, Kent State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Hz7S9BEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastien Tixeuil",
+            "affiliation": "Professor of Computer Science, Sorbonne Universit\u00e9, LIP6 & IUF"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Partitionable asynchronous cryptocurrency blockchain",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 1-9, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "QkZx2HIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788795463351292702",
+            "cites_id": [
+                "10788795463351292702"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QUANTAS: quantitative user-friendly adaptable networked things abstract simulator",
+                "pub_year": "2022",
+                "citation": "Proceedings of the 2022 Workshop on Advanced tools, programming languages \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QkZx2HIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=478891289661603852",
+            "cites_id": [
+                "478891289661603852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Byzantine geoconsensus",
+                "pub_year": "2021",
+                "citation": "Networked Systems: 9th International Conference, NETYS 2021, Virtual Event \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "QkZx2HIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brief Announcement: Byzantine Geoconsensus",
+                "pub_year": "2020",
+                "citation": "Stabilization, Safety, and Security of Distributed Systems: 22nd \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "QkZx2HIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Partitionable Blockchain",
+                "pub_year": "2020",
+                "citation": "Kent State University, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "QkZx2HIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of the ITACA Network Loading Analysis Tool's Scheduling Techniques",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QkZx2HIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}
