@@ -1,5 +1,6 @@
 import disnake
 import asyncio
+import token
 
 IDS = {
     "general": 428922729329328161
@@ -8,7 +9,8 @@ IDS = {
 
 MESSAGE = "Nope. Teh only thing that scares me is my wfie when shes hungry"
 
-token = "MTA3Nzc1MzY3MzY5MTcxMzU3Ng.GaOWfg.sg-pY9tu9ybVWuFEE9HRWkZ_3nWgQQFsLTUI4I"
+bot_token = token.get_token()
+
 class MyClient(disnake.Client):
     async def on_message(self, message: disnake.Message):
         print(message.content)
@@ -33,4 +35,4 @@ intents.message_content = True
 
 if __name__ == "__main__":
     client = MyClient(intents=intents)
-    client.run(token)
+    client.run(bot_token)
