@@ -1,4 +1,5 @@
-import speech_recognition as sr
+# Limit of 60s audio clips and a limit of 50 api calls per day
+import speech_recognition as sr # pip install SpeechRecognition
 import pyttsx3
  
 # Initialize the recognizer

@@ -4,7 +4,6 @@ from keras import models
 import matplotlib.pyplot as plt
 from matplotlib import gridspec
 from PIL import Image
-import csv
 
 savedModel = models.load_model('BST_B10_E10_G1.h5')
 class_names = np.array(['House', 'Tree'])
