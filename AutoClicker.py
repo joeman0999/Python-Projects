@@ -61,7 +61,10 @@ def on_press(key):
         if click_thread.running:
             running = True
             click_thread.stop_clicking()
-        click_thread.clickRate = int(input("New clickRate: "))
+        try:
+            click_thread.clickRate = float(input("New clickRate: "))
+        except:
+            print("input not accepted")
         if running == True:
             click_thread.start_clicking()
         click_thread.printClickRate()
